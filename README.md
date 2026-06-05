@@ -1,4 +1,4 @@
-# TC2 - Tropical Cyclone Tracker and Classifier
+# TC2 - Tracker and Classifier for Tropical Cyclones
 
 ## Citation
 
