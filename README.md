@@ -1,5 +1,10 @@
 # TC² (Tropical Cyclone Tracker and Classifier) v1.0
 
+## Pretrained Models
+Pretrained model weights are available on Zenodo:
+https://doi.org/10.5281/zenodo.20563587
+
+
 ## Citation
 
 If you use this work, please cite the paper:
