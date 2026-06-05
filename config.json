@@ -1,0 +1,16 @@
+{
+    "_comment": "Default config. Use dataset-specific configs instead: --config /data3/DERIVED/ASCII/TC/.../config.json",
+    "tracker": {
+        "limits": {
+            "max_centers": 500,
+            "max_tracks": 200000,
+            "max_tracklen": 1000
+        },
+        "oceanid": 0
+    },
+    "classifier": {
+        "sysroot": "/data4/TOOL/environments/glibc/2.28/x86_64-conda-linux-gnu/sysroot",
+        "python": "/data2/TOOL/pyenv/bin/python3.11"
+    },
+    "models": {}
+}
