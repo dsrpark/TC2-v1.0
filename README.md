@@ -5,8 +5,8 @@
 If you use this work, please cite the paper:
 
 **Paper:**
-Park, DSR., et al. "Tropical Cyclone Tracker and Classifier". 
-*Journal of Climate*, 2026. https://doi.org/10.xxxx/xxxxx
+Park, DSR., et al. "TC2: An Objective Hybrid Tracker and Classifier for Tropical Cyclones". 
+*to be submitted*, 2026. https://doi.org/10.xxxx/xxxxx
 
 ## License
 MIT License - See [LICENSE](LICENSE) file for details.
